@@ -6,8 +6,9 @@ export default function App() {
     height: "280px",
     margin: "0 auto",
   };
-  return(
- <div style={containerStyle}>
-   <Slider slides={slides} />
-</div>
-)
+  return (
+    <div style={containerStyle}>
+      <Slider slides={slides} />
+    </div>
+  );
+}
