@@ -1,4 +1,4 @@
-export const slides = [
+const slides = [
   {
     url: "https://images.pexels.com/photos/12712600/pexels-photo-12712600.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     title: "WaterFall",
@@ -20,3 +20,5 @@ export const slides = [
     title: "Sand",
   },
 ];
+
+export default slides;

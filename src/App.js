@@ -1,5 +1,5 @@
-import { slides } from "../data/data";
-import Slider from "./../components/Slider";
+import Slider from "./Slider";
+import slides from "./data";
 export default function App() {
   const containerStyle = {
     width: "500px",
